@@ -1,2 +1,6 @@
 # lca_info_hub
 Life-Cycle Assessment (LCA) Information Hub
+
+### Mailing Lists
+
+[LCALIST](http://lists.pre-sustainability.com/scripts/wa-PRECBV.exe)
